@@ -14,7 +14,7 @@
 ## Dans un second terminal :
 - cd backend
 - npm install
-- nodemon server
+- node server
 
 ## Pour se connecter :
 
